@@ -1,0 +1,37 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>Just Cook!</title>
+<link rel="stylesheet" type="text/css" href="../style.css"/>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1>Just Cook!</h1>
+</div>
+<div id="nav">
+<ul>
+   <li><a href="../index.html">Home<a></li>
+   <li><a href="../references/references.html">References<a></li>
+</ul>
+</div>
+<div id="main">
+
+<h2>References:</h2>
+	<p>All information about CSS and HTML5 was sourced on <a href="http://www.w3schools.com">www.w3schools.com</a>.</p>
+<p>All recipes on this page are of my own design, I found all the images on the following pages:</p>
+<ul>
+   <li><a href="http://www.mrbreakfast.com/images/1135_fluffy_cheese_omelette.jpg">http://www.mrbreakfast.com/images/1135_fluffy_cheese_omelette.jpg</a></li>
+   <li><a href="http://www.lwhancock.com/Images/SpaghettiBolognese.jpg">http://www.lwhancock.com/Images/SpaghettiBolognese.jpg</a></li>
+   <li><a href="http://deepvape.co.uk/opencart/image/data/StrawberryMilkshake.jpg">http://deepvape.co.uk/opencart/image/data/StrawberryMilkshake.jpg</a></li>
+   <li><a href="http://cdn.canadianfamily.ca/wp-content/uploads/2012/02/CF_Best_Pancake_recipe_300.jpg">http://cdn.canadianfamily.ca/wp-content/uploads/2012/02/CF_Best_Pancake_recipe_300.jpg</a></li>
+   <li><a href="http://previews.123rf.com/images/notkoo2008/notkoo20081012/notkoo2008101200384/8472570-seamless-kitchen-pattern-Stock-Vector-cooking-kitchen.jpg">http://previews.123rf.com/images/notkoo2008/notkoo20081012/notkoo2008101200384/8472570-seamless-kitchen-pattern-Stock-Vector-cooking-kitchen.jpg</a></li>
+
+</ul>
+<div id="footer">
+<p>Website by: Kyrylo Khaletskyy</p>
+</div>
+</div>
+</div>
+</body>
+</head>

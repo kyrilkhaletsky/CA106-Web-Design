@@ -1,0 +1,166 @@
+body {
+    background-image: url("background.jpg")
+}
+
+@font-face {
+    font-family: counter-strike;
+    src: url(cs_regular.ttf);
+	
+}
+
+#container {
+    background-color: #E8E8E8;
+    opacity: 0.97;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid #808080;
+}
+
+h1 {
+    margin: 0;
+	color: Black;
+	font-family: counter-strike;
+	font-size: 500%;
+}
+
+h2 {
+    font-size: 350%;
+    color: Black;
+	text-align: center;
+	font-family: counter-strike;
+	text-decoration: underline;
+}
+
+h3 {
+    color: Black;
+	font-family: counter-strike;
+	font-size: 200%;
+	text-decoration: underline;
+	text-align: center;
+}
+table {
+    border-collapse: collapse;
+	width: 400px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+table, th, td a {
+	text-align: center;
+}
+#header {
+	padding-top: 30px;
+    text-align: center;
+}
+
+nav {
+    height: 50px;
+    background-color: #e65c00;
+}
+
+nav ul li {
+    list-style-type: none;
+    width: 130px;
+    float: left;
+    text-align: center;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: Black;
+    line-height:50px;
+    display: inline;
+	font-family: counter-strike;
+	font-size: 120%;
+}
+
+#main {
+    text-align: center;
+	font-size: 110%;
+	padding-bottom: 15px;
+}
+
+#teams {
+	padding-right: 30px;
+}
+
+#ref {
+	text-align: center;
+	font-size: 110%;
+	padding-left: 30px;
+}
+ul li {
+    list-style-type: none;
+}
+
+#footer {
+	text-align: right;
+	padding-right: 20px;
+	font-size: 85%;
+	padding-top: 15px;
+}
+
+/*FOR CONTACT.HTML*/
+
+.details_group{
+    top : relative;
+    margin-bottom: 5%;
+}
+input,textarea{
+    
+    width:30%;
+    left:40%;
+    -webkit-border-radius:12px;
+    -moz-border-radius:12px;
+    -o-border-radius:12px;
+    border-radius:12px;
+    margin-left:35%;
+}
+
+label {
+    display : block;
+    margin-bottom:2%;
+    margin-left:4%;
+}
+
+textarea{
+    display : block;
+}
+
+input {
+    display : block;
+}
+
+legend {
+    margin-bottom : 5%;
+}
+/* CSS FOR REFERENCE PAGE*/
+
+.lists {
+   text-align: center;
+}
+.links {
+   padding-right: 30px;
+   text-decoration: none;
+   font-size: 110%;
+   display: inline;
+}
+.ref_heading {
+   text-align: center;
+}
+/* CSS FOR LIVE SCORES */
+
+#score {
+	text-align: center;
+	padding-top: 20px;
+	border: 1px solid Black;
+	width: 700px;
+	margin-left: auto;
+    margin-right: auto;
+	background-color: #C0C0C0;
+}

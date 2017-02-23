@@ -1,0 +1,46 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<title>Just Cook!</title>
+<link rel="stylesheet" type="text/css" href="../style.css"/>
+</head>
+<body>
+<div id="container">
+<div id="header">
+<h1>Just Cook!</h1>
+</div>
+<div id="nav">
+<ul>
+   <li><a href="../index.html">Home<a></li>
+   <li><a href="../references/references.html">References<a></li>
+</ul>
+</div>
+<div id="main">
+
+<h2>Strawberry Milkshake</h2>
+<img src="../strawberry-milkshake/strawberrymilkshake.jpg" alt="Strawberry Milkshake" style="width:300px;height:300px;">
+
+<h3>Ingrediets Required:</h3>
+<ul>
+   <li>Strawberries (100g)</li>
+   <li>Milk (300ml)</li>
+   <li>Vanilla Ice-cream (2 Scoops)</li>
+   <li>Icing Sugar(2 tbsp.)</li>
+  
+</ul>
+
+<h3>Method:</h3>
+<ol>
+   <li>Begin by removing the stems from the strawberries.</li>
+   <li>Add the strawberries, ince-cream, icing sugar and milk into the blender, and begin to blend, start from slow speeds then work your way up.</li>
+   <li>When mixture is unifrom pour contents into a glass and serve.</li>
+</ol>
+<p>Enjoy your drink!</p>
+</ol>
+<div id="footer">
+<p>Website by: Kyrylo Khaletskyy</p>
+</div>
+</div>
+</div>
+</body>
+</head>

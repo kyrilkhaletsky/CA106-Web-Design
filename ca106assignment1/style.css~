@@ -1,0 +1,69 @@
+body {
+    background-image: url("background-image.jpg")
+}
+
+img {
+    border: 1px solid #5F3B2B;
+}
+
+#container {
+    border: 2px solid #5F3B2B;
+    background-color: white;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#image {
+    background: right-top;
+}
+
+h1 {
+    margin: 0;
+}
+
+h2 {
+    font-size: 30px;
+    color: #5F3B2B;
+}
+
+h3 {
+    color: #5F3B2B;
+}
+
+#header {
+    text-align: center;
+    font-size: 35px;
+    color: #5F3B2B;
+}
+
+#nav {
+    height: 50px;
+    background-color: #EFDDCF;
+   
+}
+
+#nav ul li {
+    list-style-type: none;
+    width: 100px;
+    float: left;
+    text-align: center;
+}
+
+#nav ul li a {
+    text-decoration: none;
+    color: #5F3B2B;
+    line-height:50px;
+    display: inline;
+}
+
+#main {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+#footer {
+    text-align: right;
+    padding: 10px;
+}
+

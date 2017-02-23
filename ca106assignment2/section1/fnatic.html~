@@ -1,0 +1,36 @@
+<!DOCTYPE HTML>
+<html lang="en">
+	<head>
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css"/>
+	</head>
+	<body>
+		<div id="container">
+			<div id="header">
+				<h1>Counter Strike Player Statistics</h1>
+				<img src="../logo.png" alt="counter strike logo" style="width:300px;height:130px;">
+			</div>
+			<nav>
+				<ul>
+					<li><a href="../index.html">Home<a></li>
+					<li><a href="../section1/fnatic.html">Fnatic<a></li>
+					<li><a href="../section2/virtus-pro.html">Virtus Pro<a></li>
+					<li><a href="../section3/envyus.html">ENVYUS<a></li>
+					<li><a href="../section4/ninjas-in-pyjamas.html">Ninjas in Pyjamas<a></li>
+					<li><a href="../references/references.html">References<a></li>
+					<li><a href="../contact/contact.html">Contact<a></li>
+				</ul>
+			</nav>
+			<div id="main">
+				<h2>Fnatic</h2>
+				<img src="../section1/fnatic-group.jpg" alt="fnatic team photo" style="width:900px;height:600px;">
+				<p>(Insert team logo and relevent information about the team).</p>
+				<h3>Most Influential Players:</h3>
+				<a href="../section1/olofmeister.html">olofmeister<a></li>
+				<a href="../section1/flusha.html">flusha<a></li>
+			</div>
+			<div id="footer">
+			</div>
+		</div>
+	</body>
+	

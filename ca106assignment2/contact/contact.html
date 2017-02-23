@@ -1,0 +1,66 @@
+   <!DOCTYPE HTML>
+<html lang="en">
+	<head>
+	<title>Contact Us</title>
+	<link rel="stylesheet" type="text/css" href="../stylesheet.css"/>
+   <script>
+	fuction makeSure() {
+		prompt("Are you sure you want to Submit?");
+}
+   </script>
+	</head>
+	<body>
+		<div id="container">
+			<div id="header">
+				<h1>Counter Strike Player Statistics</h1>
+				<img src="../logo.png" alt="counter strike logo" style="width:230px;height:90px;">
+			</div>
+			<nav>
+				<ul>
+					<li><a href="../index.html">Home<a></li>
+					<li><a href="../section1/fnatic.html">Fnatic<a></li>
+					<li><a href="../section2/virtus-pro.html">Virtus Pro<a></li>
+					<li><a href="../section3/envyus.html">ENVYUS<a></li>
+					<li><a href="../section4/ninjas-in-pyjamas.html">NiP<a></li>
+					<li><a href="../references/references.html">References<a></li>
+					<li><a href="../contact/contact.html">Contact<a></li>
+				</ul>
+			</nav>
+			<div id="main">
+				<h2>Contact Us</h2>
+                
+                <fieldset>
+                <legend>Personal Details</legend>
+                    <div class = "details_group">
+                        <label for = "firstName">First Name</label>
+                        <input id = "firstName" autofocus type = "text" maxlength = 100 placeholder = " Tom" required>
+                    </div>
+                     <div class = "details_group">
+                         <label for = "surName">Surname</label>
+                        <input id = "surName" type = "text" maxlenght = 100 placeholder = " McDonald" required>
+                    </div>
+                    <div class = "email">
+                        <label for = "email-address">Email Address</label>
+                        <input id = "email-address" type = "email" maxlenght = 1000 required placeholder = " Tom.McDonald@hotmail.com">
+                    </div>
+                </fieldset>
+                
+                <fieldset>
+                    <legend>Your Query</legend>
+                    <div class = "details_group">
+                        <label for = "reason">Please specify the reason for contacting us</label>
+                        <textarea id = "reason" placeholder = " Enter reason here" rows = 4></textarea>
+                    </div>
+                    <div class = "details_group">
+                        <label for = "query">Your Query</label>
+                        <textarea id = "query" rows = 10 placeholder = " Enter comment here"></textarea>
+                    </div>
+                    <button type = "submit" role = "submit" onclick = "makeSure()">Submit</button>
+                </fieldset>
+            </div>
+			<div id="footer">
+			<p>Copyright &copy; | 2015 | Group 23 | <a href = "" target = "_blank">See our accessibility here</a></p>
+			</div>
+		</div>
+	</body>
+	
